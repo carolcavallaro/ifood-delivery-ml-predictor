@@ -14,5 +14,5 @@ Este repositório contém uma aplicação prática de **Machine Learning** estru
 3. **Treinamento & Avaliação:** Cálculo do Erro Médio Absoluto (MAE) e R².
 4. **Inferência:** Previsão em tempo real de novos pedidos simulados.
 
---
+---
 **Desenvolvido por Carolina Cavallaro** | [LinkedIn](https://linkedin.com/in/carolinacavallaro/)
